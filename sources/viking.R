@@ -1,4 +1,6 @@
-##
+## -----------------------------------------
+# Copyright (c) 2023 Alessandro Vasciaveo --
+## -----------------------------------------
 # MoA - VIKING on RNA-Seq Data
 # ----------------------------
 # system.time({source("sources/viking.R")})

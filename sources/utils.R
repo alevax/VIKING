@@ -1,3 +1,6 @@
+## -----------------------------------------
+# Copyright (c) 2023 Alessandro Vasciaveo --
+## -----------------------------------------
 
 require(crayon)
 create_workspace <- function( run_dir = "my-run" ,
